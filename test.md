@@ -11,5 +11,7 @@ develop-06
 rel-1.1.0-01
 rel-1.1.0-02
 rel-1.1.0-03
+fix-01
+fix-02
 dev-06
 dev-07
